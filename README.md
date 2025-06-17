@@ -1,3 +1,19 @@
+<!--
+**XhyEax/XhyEax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +30,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there 👋, **XhyEax Here 🥰.**
+
+<a title="github" target="_blank" href="https://github.com/XhyEax">
+<img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DXhyEax&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
+<a href="https://hits.sh/github.com/XhyEax/"><img alt="Hits" src="https://hits.sh/github.com/XhyEax.svg"/></a> 
+[<img src="https://img.shields.io/badge/HikariLan's%20Homepage-purple"/>](https://xhyeax.com)
+[<img src="https://img.shields.io/badge/HikariLan's%20Blog-purple"/>](https://blog.xhyeax.com)
+
+Contact me: <a href=＂mailto:me@xhyeax.com＂>me@xhyeax.com</a>
+
+## Open Source Contributions
+
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=XhyEax&count_private=true&show_icons=true&include_all_commits=true&title_color=359697&icon_color=359697&hide_border=true&theme=transparent" alt="HikariLan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XhyEax&layout=compact&title_color=359697&icon_color=359697&hide_border=true&theme=transparent&langs_count=8" />
+| ------------- | ------------- |
