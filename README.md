@@ -37,6 +37,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DXhyEax&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
 <a href="https://hits.sh/github.com/XhyEax/"><img alt="Hits" src="https://hits.sh/github.com/XhyEax.svg"/></a> 
 
-[<img src="https://img.shields.io/badge/Xhy's%20Blog-blue"/>](https://blog.xhyeax.com)
+Technology Blog: [<img src="https://img.shields.io/badge/Xhy's%20Blog-blue"/>](https://blog.xhyeax.com)
+
+Daily Blog: [<img src="https://img.shields.io/badge/南冥有熊的博客-blue"/>](https://blog.xhyeax.cn)
+
 
 Contact me: <a href=＂mailto:me@xhyeax.com＂>me@xhyeax.com</a>
