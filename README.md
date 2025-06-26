@@ -25,7 +25,7 @@ My Name: Xhy, XhyEax, 南冥有熊
 Technology Blog: [<img src="https://img.shields.io/badge/Xhy's%20Blog-blue"/>](https://blog.xhyeax.com)
 
 
-Daily Blog: [<img src="https://img.shields.io/badge/南冥有熊的博客-blue"/>](https://blog.xhyeax.cn)
+Daily Blog: [<img src="https://img.shields.io/badge/南冥有熊的博客-blue"/>](https://xhyeax.cn)
 
 
 Contact me: <a href=＂mailto:me@xhyeax.com＂>me@xhyeax.com</a>
