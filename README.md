@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 <a href="https://hits.sh/github.com/XhyEax/"><img alt="Hits" src="https://hits.sh/github.com/XhyEax.svg"/></a> 
 
 
+You can call me: Xhy, XhyEax, 南冥有熊
+
 Technology Blog: [<img src="https://img.shields.io/badge/Xhy's%20Blog-blue"/>](https://blog.xhyeax.com)
 
 
